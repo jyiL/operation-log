@@ -18,7 +18,7 @@ class OperationLogServiceProvider extends ServiceProvider
         [
             'title' => 'Operation Log',
             'uri'   => '',
-            'icon'  => 'feather icon-x',
+            'icon'  => 'feather icon-list',
         ],
         [
             'parent' => 'Operation Log', // 指定父级菜单
